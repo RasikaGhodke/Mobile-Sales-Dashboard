@@ -13,3 +13,7 @@ This project analyzes mobile phone sales data from a retail setting, including b
 - Sales Trend Over Time
 - Revenue by City
 - Average Selling Price
+
+## Dashboards
+- Mobile Sales Dashboard is <a href="https://github.com/RasikaGhodke/Mobile-Sales-Dashboard/blob/main/Screenshot%20(265).png"> here </a>
+- Mobile Sales Dashnoard is <a href=
