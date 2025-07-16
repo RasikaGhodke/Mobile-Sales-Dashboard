@@ -16,4 +16,5 @@ This project analyzes mobile phone sales data from a retail setting, including b
 
 ## Dashboards
 - Mobile Sales Dashboard is <a href="https://github.com/RasikaGhodke/Mobile-Sales-Dashboard/blob/main/Screenshot%20(265).png"> here </a>
-- Mobile Sales Dashnoard is <a href=
+- Mobile Sales Dashboard is <a href="https://github.com/RasikaGhodke/Mobile-Sales-Dashboard/blob/main/Screenshot%20(266).png"> here </a>
+- Mobile Sales Dashboard is <a href="https://github.com/RasikaGhodke/Mobile-Sales-Dashboard/blob/main/Screenshot%20(267).png"> here </a>
